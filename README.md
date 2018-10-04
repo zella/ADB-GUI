@@ -1,3 +1,14 @@
+## This is fork adopted to sbt (scala build tool)
+
+## How build:
+
+- Install sbt https://www.scala-sbt.org
+- Clone repo
+- Go to project dir
+- sbt assembly
+- Find adb-gui.xxx.jar in target/scala/ folder
+
+
 # ADB-GUI - [GitHub Page](https://yapplications.github.io/ADB-GUI/)
 UI wrapper around ADB to make life easier for Android Developer and QA
 
