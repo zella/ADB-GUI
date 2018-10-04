@@ -1,15 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="JavaFXApp" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
-    <ignored path="JavaFxApplication.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="5494637a-3859-45da-8e97-03e5070ffdd9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaFXApp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADBUITool.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adbuitool.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adbuitool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/gson-2.2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_adbuitool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/ADBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/ADBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/AdbUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/AdbUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/DialogUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/DialogUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/FXMLMain.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/FXMLMain.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/FXMLMainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/FXMLMainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/FolderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/FolderUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/ProcessUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/ProcessUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/apks/APKsTab.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/apks/APKsTab.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/apks/APKsTabController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/apks/APKsTabController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/application.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/applications/ApplicationsTab.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/applications/ApplicationsTab.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/applications/ApplicationsTabController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/applications/ApplicationsTabController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/batchcommands/BatchCommandEditController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/batchcommands/BatchCommandEditController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/batchcommands/BatchCommandEditLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/batchcommands/BatchCommandEditLayout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/batchcommands/BatchCommandTab.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/batchcommands/BatchCommandTab.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/batchcommands/BatchCommandTabController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/batchcommands/BatchCommandTabController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/batchcommands/BatchCommandViewUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/batchcommands/BatchCommandViewUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/batchcommands/BatchCommandsListView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/batchcommands/BatchCommandsListView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/batchcommands/CommandWizardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/batchcommands/CommandWizardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/batchcommands/CommandWizardLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/batchcommands/CommandWizardLayout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/devices/DevicesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/devices/DevicesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/devices/DevicesLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/devices/DevicesLayout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/intentbroadcasts/IntentBroadcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/intentbroadcasts/IntentBroadcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/intentbroadcasts/IntentBroadcastsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/intentbroadcasts/IntentBroadcastsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/intentbroadcasts/IntentsBroadcastsLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/intentbroadcasts/IntentsBroadcastsLayout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/log/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/log/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/logexceptions/ExceptionLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/logexceptions/ExceptionLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/logexceptions/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/logexceptions/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/logexceptions/LogExceptionsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/logexceptions/LogExceptionsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/logexceptions/LogExceptionsLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/logexceptions/LogExceptionsLayout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/model/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/model/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/model/CommandBatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/CommandBatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/model/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/model/ModelListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/ModelListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/model/PackageProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/PackageProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/preferences/PreferenceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/preferences/PreferenceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/preferences/PreferenceLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/preferences/PreferenceLayout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/preferences/Preferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/preferences/Preferences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/screencapture/ScreenCaptureController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/screencapture/ScreenCaptureController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/screencapture/ScreenCaptureLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/screencapture/ScreenCaptureLayout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/services/ApplicationsMonitorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/services/ApplicationsMonitorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/services/DeviceMonitorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/services/DeviceMonitorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/startupcheck/StartupCheckController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/startupcheck/StartupCheckController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/startupcheck/StartupCheckLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/startupcheck/StartupCheckLayout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/terminal/TerminalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/terminal/TerminalController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/terminal/TerminalLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/terminal/TerminalLayout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/view/DateTimePicker.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/view/DateTimePicker.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/view/DateTimePickerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/view/DateTimePickerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/icon.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,1221 +86,513 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DebuggerManager">
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </breakpoint_any>
-    <ui_properties converted="true" />
-    <breakpoint_rules converted="true" />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="JavaFxApplication" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="37" column="23" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="File.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/io/File.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="1205" column="18" selection-start-line="1205" selection-start-column="18" selection-end-line="1205" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
+    <leaf>
+      <file leaf-file-name="DateTimePickerController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/view/DateTimePickerController.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="AdbUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/AdbUtils.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/AdbUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="65" column="47" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
-              <folding />
+            <state relative-caret-position="60">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Preferences.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/preferences/Preferences.java">
+      <file leaf-file-name="FXMLMainController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/FXMLMainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="96" column="39" selection-start-line="96" selection-start-column="39" selection-end-line="96" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ADBHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/ADBHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="193" column="9" selection-start-line="193" selection-start-column="9" selection-end-line="193" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApplicationsMonitorService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/services/ApplicationsMonitorService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
+            <state relative-caret-position="358">
+              <caret line="199" column="17" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#906#907#0" expanded="false" />
-                <element signature="e#937#938#0" expanded="false" />
-                <element signature="e#980#981#0" expanded="false" />
-                <element signature="e#1018#1019#0" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PreferenceController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/application/preferences/PreferenceController.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="199">
+              <caret line="47" column="18" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartupCheckController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/startupcheck/StartupCheckController.java">
+      <file leaf-file-name="ProcessUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/ProcessUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeviceMonitorService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/services/DeviceMonitorService.java">
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="56" column="73" selection-start-line="56" selection-start-column="73" selection-end-line="56" selection-end-column="73" />
-              <folding />
+            <state relative-caret-position="150">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DevicesController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/devices/DevicesController.java">
+      <file leaf-file-name="IntentBroadcastsController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/intentbroadcasts/IntentBroadcastsController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
-              <folding />
+            <state relative-caret-position="75">
+              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>icon</find>
+    </findStrings>
   </component>
-  <component name="FindManager">
-    <FindUsagesManager>
-      <setting name="OPEN_NEW_TAB" value="false" />
-    </FindUsagesManager>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../AndroidProjectMaket" value="PREVIEW" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/application/FXMLDevicesController.java" />
-        <option value="$PROJECT_DIR$/src/application/applications/ApplicationsTabController.java" />
-        <option value="$PROJECT_DIR$/src/application/Preferences.java" />
-        <option value="$PROJECT_DIR$/src/application/logexceptions/ExceptionLog.java" />
-        <option value="$PROJECT_DIR$/src/application/logexceptions/Log.java" />
-        <option value="$PROJECT_DIR$/src/application/logexceptions/LogExceptionsLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/DialogUtil.java" />
-        <option value="$PROJECT_DIR$/src/application/logexceptions/LogExceptionsController.java" />
-        <option value="$PROJECT_DIR$/src/application/batchcommands/BatchCommandEditLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/batchcommands/CommandWizardLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/batchcommands/CommandWizardController.java" />
-        <option value="$PROJECT_DIR$/src/application/intentbroadcasts/DevicesLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/log/Logger.java" />
-        <option value="$PROJECT_DIR$/src/application/model/ModelListener.java" />
-        <option value="$PROJECT_DIR$/src/application/screencapture/ScreenCaptureLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/view/ScreenCaptureLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/view/ScreenCaptureController.java" />
-        <option value="$PROJECT_DIR$/src/application/view/DateTimePicker.fxml" />
-        <option value="$PROJECT_DIR$/src/application/view/DateTimePickerController.java" />
-        <option value="$PROJECT_DIR$/src/application/batchcommands/BatchCommandsListView.java" />
-        <option value="$PROJECT_DIR$/src/application/intentbroadcasts/IntentBroadcast.java" />
-        <option value="$PROJECT_DIR$/src/application/GifSequenceWriter.java" />
-        <option value="$PROJECT_DIR$/src/application/FileUtils.java" />
-        <option value="$PROJECT_DIR$/src/application/intentbroadcasts/IntentBroadcastsController.java" />
-        <option value="$PROJECT_DIR$/src/application/apks/APKsTabController.java" />
-        <option value="$PROJECT_DIR$/src/application/apks/APKsTab.fxml" />
-        <option value="$PROJECT_DIR$/src/application/terminal/TerminalController.java" />
-        <option value="$PROJECT_DIR$/src/application/terminal/TerminalLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/AdbUtils.java" />
-        <option value="$PROJECT_DIR$/src/application/batchcommands/BatchCommandEditController.java" />
-        <option value="$PROJECT_DIR$/src/application/batchcommands/BatchCommandTab.fxml" />
-        <option value="$PROJECT_DIR$/src/application/intentbroadcasts/IntentsBroadcastsLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/devices/DevicesLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/batchcommands/BatchCommandTabController.java" />
-        <option value="$PROJECT_DIR$/src/application/FXMLMain.fxml" />
-        <option value="$PROJECT_DIR$/src/application/model/Device.java" />
-        <option value="$PROJECT_DIR$/src/application/devices/DevicesController.java" />
-        <option value="$PROJECT_DIR$/src/application/startupcheck/ScreenCaptureLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/ADBHelper.java" />
-        <option value="$PROJECT_DIR$/src/application/preferences/PreferenceLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/startupcheck/StartupCheckLayout.fxml" />
-        <option value="$PROJECT_DIR$/src/application/DateUtil.java" />
-        <option value="$PROJECT_DIR$/src/application/FXMLMainController.java" />
-        <option value="$PROJECT_DIR$/src/application/model/Model.java" />
-        <option value="$PROJECT_DIR$/src/application/screencapture/ScreenCaptureController.java" />
-        <option value="$PROJECT_DIR$/src/application/services/ApplicationsMonitorService.java" />
-        <option value="$PROJECT_DIR$/src/application/startupcheck/StartupCheckController.java" />
-        <option value="$PROJECT_DIR$/src/application/Main.java" />
-        <option value="$PROJECT_DIR$/src/application/preferences/Preferences.java" />
-        <option value="$PROJECT_DIR$/src/application/services/DeviceMonitorService.java" />
-        <option value="$PROJECT_DIR$/src/application/preferences/PreferenceController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/Main.java" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/java/application/FXMLMainController.java" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="873" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <OptionsSetting value="true" id="Undo Check Out" />
-    <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
-  <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1922" />
+    <option name="height" value="1168" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
+      <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUITool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUITool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUITool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUITool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="terminal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUITool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="startupcheck" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUITool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUITool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="screencapture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUITool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="preferences" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ADBUITool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="applications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="adb-gui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADB-GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adb-gui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADB-GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adb-gui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADB-GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adb-gui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADB-GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adb-gui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADB-GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adb-gui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADB-GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="intentbroadcasts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adb-gui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADB-GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/gson-2.2.4.jar!/" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
-    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
-    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="adbuitool" />
-    <property name="SearchEverywhereHistoryKey" value="devices:&#9;PSI&#9;JAVA://application.devices.DevicesController&#10;sea&#9;ACTION&#9;SearchEverywhere&#10;findADBPath&#9;PSI&#9;JAVA://application.Main#findADBPath&#10;showScreen&#9;PSI&#9;JAVA://application.batchcommands.CommandWizardController#showScreen&#10;find&#9;ACTION&#9;RevealIn&#10;ant&#9;ACTION&#9;ActivateAntBuildToolWindow" />
-    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="true" />
-    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/application/terminal" />
-      <recent name="$PROJECT_DIR$/src/application/preferences" />
-      <recent name="$PROJECT_DIR$/src/application/logexceptions" />
-      <recent name="$PROJECT_DIR$/src/application/devices" />
-      <recent name="$PROJECT_DIR$/src/application/applications" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="application.intentbroadcasts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/application/startupcheck" />
-      <recent name="$PROJECT_DIR$/src/application/view" />
-      <recent name="$PROJECT_DIR$/src/application/intentbroadcasts" />
-      <recent name="$PROJECT_DIR$/src/application" />
-      <recent name="$PROJECT_DIR$/src/application/screencapture" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
+      <module name="root" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="application.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ADBUITool" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-    </list>
-    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
-      <Host>localhost</Host>
-      <Port>5050</Port>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="adb-gui" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="root-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3521363155" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2096222171" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2766693235" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../blockmanagementservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blocks" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../casemanagementservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../coloringservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../common.dynamo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../common.ums" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cp.servicetemplate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../designtracker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../equipmentmanagementservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../glueservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lambda2kinesis" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lambdahistory" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../locationservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../machineservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../materialservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../milltracker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../placement" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../printing" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../s3-cleaner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../s3cleaner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scalatests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../settings" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../shades" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../slicingservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../stl-cleaner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../strategyservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../LanternaScreens" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../adb-app-unisntaller" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../maryana-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../poker-bot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../poker-console" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../room-chat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-macro-template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../udashdemo/my-udash-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../xml-reads-writes" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../usermanagementservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workflowqueueservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wtmg" value="PREVIEW" />
+      </map>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
-      <created>1359379246138</created>
+      <changelist id="5494637a-3859-45da-8e97-03e5070ffdd9" name="Default" comment="" />
+      <created>1538680509435</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1359379246138</updated>
-      <workItem from="1359379250712" duration="1302000" />
+      <updated>1538680509435</updated>
+      <workItem from="1538680511165" duration="521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1302000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="521000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <frame x="-3" y="0" width="1926" height="1166" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4687101" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25035766" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39846742" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="CDI" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.32970297" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32970297" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="30" />
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="constructLoadException(exception)" />
-        <watch expression="run =&quot;pull &quot; + from + &quot; \&quot;&quot; + to + &quot;\&quot;&quot;" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-    <buildFile url="file://$PROJECT_DIR$/adbuitool.xml">
-      <targetFilters>
-        <filter targetName="register.custom.compilers" isVisible="false" />
-        <filter targetName="init" isVisible="true" />
-        <filter targetName="clean" isVisible="true" />
-        <filter targetName="build.modules" isVisible="true" />
-        <filter targetName="init.artifacts" isVisible="false" />
-        <filter targetName="clean.artifact.javafxapp" isVisible="true" />
-        <filter targetName="artifact.javafxapp" isVisible="true" />
-        <filter targetName="build.all.artifacts" isVisible="true" />
-        <filter targetName="all" isVisible="true" />
-        <filter targetName="compile.module.adbuitool" isVisible="true" />
-        <filter targetName="compile.module.adbuitool.production" isVisible="true" />
-        <filter targetName="compile.module.adbuitool.tests" isVisible="true" />
-        <filter targetName="clean.module.adbuitool" isVisible="true" />
-      </targetFilters>
-      <expanded value="true" />
-    </buildFile>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/application/GifSequenceWriter.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/awt/Desktop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3101">
-          <caret line="427" column="44" selection-start-line="427" selection-start-column="24" selection-end-line="427" selection-end-column="44" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/view/DateTimePickerController.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/Package.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="456" column="48" selection-start-line="456" selection-start-column="37" selection-end-line="456" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/FileUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/applications/ApplicationsTab.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/apks/APKsTab.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/apks/APKsTabController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/terminal/TerminalLayout.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/logexceptions/LogExceptionsLayout.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/terminal/TerminalController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="27" column="41" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/batchcommands/BatchCommandViewUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/AdbUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/batchcommands/BatchCommandTab.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        <state relative-caret-position="199">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/batchcommands/BatchCommandTabController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="143" column="33" selection-start-line="143" selection-start-column="12" selection-end-line="143" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/intentbroadcasts/IntentsBroadcastsLayout.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/devices/DevicesLayout.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/FXMLMain.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/intentbroadcasts/IntentBroadcastsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="59" column="114" selection-start-line="59" selection-start-column="114" selection-end-line="59" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/model/Device.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="123" column="27" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/ProcessUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/ProcessUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/awt/Image.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar!/com/apple/eawt/Application.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="124" column="35" selection-start-line="124" selection-start-column="33" selection-end-line="124" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/batchcommands/BatchCommandsListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/batchcommands/CommandWizardController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="55" column="79" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/model/ModelListener.java">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="0" selection-end-line="14" selection-end-column="35" />
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/screencapture/ScreenCaptureLayout.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/intentbroadcasts/IntentBroadcastsController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="75">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/batchcommands/BatchCommandEditController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/FXMLMainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="195" column="35" selection-start-line="195" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/batchcommands/CommandWizardLayout.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/log/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/preferences/PreferenceLayout.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/startupcheck/StartupCheckLayout.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="94" selection-start-line="22" selection-start-column="94" selection-end-line="22" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar!/com/apple/eawt/_AppEventHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-888">
-          <caret line="229" column="0" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/Control.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/javafx-src.zip!/javafx/scene/paint/Paint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="126" column="24" selection-start-line="126" selection-start-column="19" selection-end-line="126" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/DateUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/javafx-src.zip!/javafx/scene/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12945">
-          <caret line="1071" column="22" selection-start-line="1071" selection-start-column="22" selection-end-line="1071" selection-end-column="22" />
+        <state relative-caret-position="358">
+          <caret line="199" column="17" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
           <folding>
-            <element signature="e#45769#45770#0" expanded="false" />
-            <element signature="e#45811#45812#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/FXMLMainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="151" column="5" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2814#2815#0" expanded="false" />
-            <element signature="e#2871#2872#0" expanded="false" />
-            <element signature="e#2956#2957#0" expanded="false" />
-            <element signature="e#3011#3012#0" expanded="false" />
-            <element signature="e#3094#3095#0" expanded="false" />
-            <element signature="e#3151#3152#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/TabPane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="86" column="2" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#28862#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3194#3195#0" expanded="false" />
-            <element signature="e#3227#3228#0" expanded="false" />
-            <element signature="e#5238#5239#0" expanded="false" />
-            <element signature="e#5265#5266#0" expanded="false" />
-            <element signature="e#6322#6323#0" expanded="false" />
-            <element signature="e#6363#6364#0" expanded="false" />
-            <element signature="e#6596#6597#0" expanded="false" />
-            <element signature="e#6655#6656#0" expanded="false" />
-            <element signature="e#7479#7480#0" expanded="false" />
-            <element signature="e#7538#7539#0" expanded="false" />
-            <element signature="e#7607#7608#0" expanded="false" />
-            <element signature="e#7660#7661#0" expanded="false" />
-            <element signature="e#8624#8625#0" expanded="false" />
-            <element signature="e#8677#8678#0" expanded="false" />
-            <element signature="e#9879#9880#0" expanded="false" />
-            <element signature="e#9929#9930#0" expanded="false" />
-            <element signature="e#10143#10144#0" expanded="false" />
-            <element signature="e#10217#10218#0" expanded="false" />
-            <element signature="e#10983#10984#0" expanded="false" />
-            <element signature="e#11036#11037#0" expanded="false" />
-            <element signature="e#11630#11631#0" expanded="false" />
-            <element signature="e#11710#11711#0" expanded="false" />
-            <element signature="e#11779#11780#0" expanded="false" />
-            <element signature="e#11838#11839#0" expanded="false" />
-            <element signature="e#11907#11908#0" expanded="false" />
-            <element signature="e#11967#11968#0" expanded="false" />
-            <element signature="e#12527#12528#0" expanded="false" />
-            <element signature="e#12580#12581#0" expanded="false" />
-            <element signature="e#13174#13175#0" expanded="false" />
-            <element signature="e#13254#13255#0" expanded="false" />
-            <element signature="e#13323#13324#0" expanded="false" />
-            <element signature="e#13382#13383#0" expanded="false" />
-            <element signature="e#13451#13452#0" expanded="false" />
-            <element signature="e#13511#13512#0" expanded="false" />
-            <element signature="e#13999#14000#0" expanded="false" />
-            <element signature="e#14053#14054#0" expanded="false" />
-            <element signature="e#14642#14643#0" expanded="false" />
-            <element signature="e#14723#14724#0" expanded="false" />
-            <element signature="e#14792#14793#0" expanded="false" />
-            <element signature="e#14851#14852#0" expanded="false" />
-            <element signature="e#14920#14921#0" expanded="false" />
-            <element signature="e#14981#14982#0" expanded="false" />
-            <element signature="e#15461#15462#0" expanded="false" />
-            <element signature="e#15515#15516#0" expanded="false" />
-            <element signature="e#16127#16128#0" expanded="false" />
-            <element signature="e#16208#16209#0" expanded="false" />
-            <element signature="e#16277#16278#0" expanded="false" />
-            <element signature="e#16336#16337#0" expanded="false" />
-            <element signature="e#16405#16406#0" expanded="false" />
-            <element signature="e#16466#16467#0" expanded="false" />
-            <element signature="e#16606#16607#0" expanded="false" />
-            <element signature="e#16650#16651#0" expanded="false" />
-            <element signature="e#18079#18080#0" expanded="false" />
-            <element signature="e#18167#18168#0" expanded="false" />
-            <element signature="e#18679#18680#0" expanded="false" />
-            <element signature="e#18767#18768#0" expanded="false" />
-            <element signature="e#19282#19283#0" expanded="false" />
-            <element signature="e#19372#19373#0" expanded="false" />
-            <element signature="e#19888#19889#0" expanded="false" />
-            <element signature="e#19978#19979#0" expanded="false" />
-            <element signature="e#21191#21192#0" expanded="false" />
-            <element signature="e#21235#21236#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/model/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="104" column="30" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#776#777#0" expanded="false" />
-            <element signature="e#816#817#0" expanded="false" />
-            <element signature="e#893#894#0" expanded="false" />
-            <element signature="e#936#937#0" expanded="false" />
-            <element signature="e#2822#2823#0" expanded="false" />
-            <element signature="e#2871#2872#0" expanded="false" />
-            <element signature="e#3044#3045#0" expanded="false" />
-            <element signature="e#3072#3073#0" expanded="false" />
-            <element signature="e#3266#3267#0" expanded="false" />
-            <element signature="e#3294#3295#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/screencapture/ScreenCaptureController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2493#2494#0" expanded="false" />
-            <element signature="e#2526#2527#0" expanded="false" />
-            <element signature="e#4240#4241#0" expanded="false" />
-            <element signature="e#4272#4273#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/applications/ApplicationsTabController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="69" column="49" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1624#1625#0" expanded="false" />
-            <element signature="e#1643#1644#0" expanded="false" />
-            <element signature="e#1856#1857#0" expanded="false" />
-            <element signature="e#1875#1876#0" expanded="false" />
-            <element signature="e#4878#4879#0" expanded="false" />
-            <element signature="e#4933#4934#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/services/ApplicationsMonitorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#906#907#0" expanded="false" />
-            <element signature="e#937#938#0" expanded="false" />
-            <element signature="e#980#981#0" expanded="false" />
-            <element signature="e#1018#1019#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/startupcheck/StartupCheckController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="1205" column="18" selection-start-line="1205" selection-start-column="18" selection-end-line="1205" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/ADBHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="193" column="9" selection-start-line="193" selection-start-column="9" selection-end-line="193" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/AdbUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="65" column="47" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/preferences/Preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="96" column="39" selection-start-line="96" selection-start-column="39" selection-end-line="96" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/devices/DevicesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/services/DeviceMonitorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="56" column="73" selection-start-line="56" selection-start-column="73" selection-end-line="56" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/preferences/PreferenceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>JavaFXApp</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>ADBUITool</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>gson-2.2.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

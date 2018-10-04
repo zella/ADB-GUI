@@ -5,7 +5,6 @@ import application.AdbUtils;
 import application.DialogUtil;
 import application.FileUtils;
 import application.log.Logger;
-import application.model.CommandBatch;
 import application.preferences.Preferences;
 import com.google.gson.Gson;
 import javafx.beans.value.ChangeListener;
@@ -15,8 +14,6 @@ import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.Initializable;
 import javafx.scene.control.*;
-import javafx.scene.control.Button;
-import javafx.scene.control.TextField;
 
 import java.io.File;
 import java.io.IOException;
@@ -25,8 +22,6 @@ import java.util.ArrayList;
 import java.util.ResourceBundle;
 import java.util.concurrent.Callable;
 import java.util.concurrent.TimeUnit;
-
-import static com.sun.activation.registries.LogSupport.log;
 
 public class IntentBroadcastsController implements Initializable {
 
