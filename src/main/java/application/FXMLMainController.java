@@ -13,7 +13,6 @@ import application.model.ModelListener;
 import application.preferences.Preferences;
 import application.screencapture.ScreenCaptureController;
 import application.startupcheck.StartupCheckController;
-import com.sun.prism.PresentableState;
 import javafx.application.Platform;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
@@ -141,7 +140,7 @@ public class FXMLMainController implements Initializable {
 
     protected ApplicationsTabController getApplicationController() {
 
-        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("applications/ApplicationsTab.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/applications/ApplicationsTab.fxml"));
 
         try {
             Parent root1 = (Parent) fxmlLoader.load();

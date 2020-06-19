@@ -40,7 +40,7 @@ public class Main extends Application {
 
 		hostService = getHostServices();
 
-		FXMLLoader loader = new FXMLLoader(getClass().getResource("FXMLMain.fxml"));
+		FXMLLoader loader = new FXMLLoader(getClass().getResource("/FXMLMain.fxml"));
 
 		Parent root = loader.load();
 		Scene scene = new Scene(root, 1200, 620);

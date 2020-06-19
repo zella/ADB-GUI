@@ -1,0 +1,27 @@
+plugins {
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.8'
+}
+
+javafx {
+    version = "11.0.2"
+    modules = [ 'javafx.controls', 'javafx.fxml' ] // you can add 'javafx.fxml', ...
+}
+
+group 'flpe'
+version '1.0-SNAPSHOT'
+
+// Use Java 13 only if you use Gradle 6+
+// The JDK folder must be added to the environment variable JAVA_HOME (https://www.wikihow.com/Set-Java-Home)
+sourceCompatibility = 1.11
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'com.google.code.gson', name: 'gson', version: '2.8.5'
+}
+
+
+mainClassName = 'application.Main'

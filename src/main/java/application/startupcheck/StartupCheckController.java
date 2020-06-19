@@ -128,7 +128,7 @@ public class StartupCheckController implements Initializable {
     }
 
     public static void showScreen(Class class1) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(class1.getResource("/application/startupcheck/StartupCheckLayout.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(class1.getResource("/startupcheck/StartupCheckLayout.fxml"));
 
         Parent root1 = (Parent) fxmlLoader.load();
 
